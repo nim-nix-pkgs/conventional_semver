@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://gitlab.com/SimplyZ/conventional_semver",
   "refs": [
-    "fatal: unable to access 'https://gitlab.com/SimplyZ/conventional_semver/': OpenSSL SSL_connect: Connection reset by peer in connection to gitlab.com:443 ",
+    "fatal: unable to access 'https://gitlab.com/SimplyZ/conventional_semver/': Could not resolve host: gitlab.com",
     ""
   ],
   "heads": []
